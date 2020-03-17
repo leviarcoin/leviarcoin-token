@@ -14,7 +14,7 @@ contract XlpToken is IToken, TokenReceiver {
     string public constant name = "Leviar Platform Token";
     string public constant symbol = "XLP";
     uint8 public constant decimals = 8;
-    uint public _totalSupply = 20000000 * 100000000; //20,000,000.0000 0000 LTT
+    uint public _totalSupply = 20000000 * 100000000; //20,000,000.0000 0000 XLP
 
     /**
      * Constructor

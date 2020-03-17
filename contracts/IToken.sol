@@ -1,7 +1,7 @@
 pragma solidity ^0.5.1;
 
 /**
- * Interface of the ERC777Token standard as defined in the EIP.
+ * Interface of the ERC223Token standard as defined in the EIP.
  */
 
 contract IToken {
